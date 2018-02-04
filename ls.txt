@@ -1,1 +1,3 @@
-hello
+20180205
+first time to use GITHUB.
+begin to learn Machine-learning, tensorflow ...
